@@ -1,5 +1,8 @@
 ## 👋 Hi, I am Muhammad Ahmad 
 
+🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer |
+I am a passionate Zoologist with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning . I combine my Biological knowledge with modern technology to explore intelligent solutions I have experience in web development and data science, and I continuously learn and build innovative projects using AI tools and programming .I am highly motivated to grow in the field of AI and aim to solve real-world problems through data-driven approaches. I believe in continuous learning, creativity, and using technology to make a meaningful impact
+
 <!--
 **Analyst-Muhammad-Ahmad/Analyst-Muhammad-Ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
