@@ -1,5 +1,3 @@
-## 👋 Hi, I am Muhammad Ahmad 
-
 # Hi, I'm Muhammad Ahmad Shafqat 👋
 
 ### BS Data Science Student | Data Analytics | Machine Learning | AI Engineering
